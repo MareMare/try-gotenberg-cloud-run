@@ -1,4 +1,4 @@
-FROM gotenberg/gotenberg:8-cloudrun
+﻿FROM gotenberg/gotenberg:8-cloudrun
 
 # 言語を日本語に
 ENV ACCEPT_LANGUAGE=ja-JP
