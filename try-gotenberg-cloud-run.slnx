@@ -1,0 +1,13 @@
+﻿<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PdfConversion.ConsoleApp/PdfConversion.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/ソリューション項目/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="Dockerfile" />
+    <File Path="global.json" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+</Solution>
